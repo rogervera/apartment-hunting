@@ -1,0 +1,21 @@
+{
+  "name": "veramela-apt-hunter",
+  "description": "Hehe.",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "author": "Roger Vera",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html-tablify": "^2.0.2",
+    "node-fetch": "^3.1.0"
+  },
+  "license": "MIT"
+}
